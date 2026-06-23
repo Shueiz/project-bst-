@@ -44,4 +44,5 @@ The GUI strictly separates the visual layer (`InventoryApp`) from the business l
     python main_gui.py
 ```
 ## 🎥 Demonstration
-A detailed explanation of the logic and a demonstration of the software can be found on my LinkedIn: [Insert LinkedIn Post Link Here]
+A detailed explanation of the logic and a demonstration of the software can be found on my LinkedIn: 
+[Click here to watch the demonstration video on LinkedIn](https://www.linkedin.com/posts/matheus-concesso-095870301_python-softwareengineering-datastructures-ugcPost-7475155158700797952-Hhmk/)

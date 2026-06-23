@@ -23,4 +23,4 @@ O sistema aplica os conceitos clássicos de árvores binárias para organizar no
     python main_gui.py
 ```
 ## 🎥 Vídeo de Apresentação
-Para ver o sistema funcionando e entender a explicação da lógica de funcionamento (narrada em português), confira o post no meu LinkedIn: [Inserir Link do LinkedIn Aqui]
+Para ver o sistema funcionando e entender a explicação da lógica de funcionamento (narrada em português), confira o post no meu LinkedIn: [Clique aqui para assistir ao vídeo de demonstração no LinkedIn](https://www.linkedin.com/posts/matheus-concesso-095870301_python-softwareengineering-datastructures-ugcPost-7475155158700797952-Hhmk/)
